@@ -1,0 +1,25 @@
+
+#itens {
+    display: none;
+}
+
+.categoria__mobile--lista {
+    padding: 1rem;
+}
+
+.categoria__mobile--item {
+    margin: 0 auto;
+    padding: .5rem 0;
+    width: 100px;
+    text-align: center;
+}
+
+.categoria__mobile--link {
+    color: #fdfdfd;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    width: 100px;
+    
+}
+
